@@ -13,4 +13,9 @@
   <li>Configuración básica de webpack para la construcción del proyecto.</li>
   <li>Pruebas unitarias con Jest y React Testing Library.</li>
 </ul>
-<p>
+
+<h2>Instalacion</h2>
+<ol>
+  <li>Clona el repositorio.</li>
+  `https://github.com/Manuellink1409/react-adv.git`
+</ol>
