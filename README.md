@@ -17,5 +17,9 @@
 <h2>Instalacion</h2>
 <ol>
   <li>Clona el repositorio.</li>
-  `const nombre = 'Juan';`
+  ```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 </ol>
