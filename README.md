@@ -17,5 +17,5 @@
 <h2>Instalacion</h2>
 <ol>
   <li>Clona el repositorio.</li>
-  `https://github.com/Manuellink1409/react-adv.git`
+  `const nombre = 'Juan';`
 </ol>
